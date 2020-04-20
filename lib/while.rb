@@ -1,6 +1,6 @@
 def using_while
-def using_while
-  levitation_force = 6
+d
+  lef using_whileevitation_force = 6
 
   #your code here
 
